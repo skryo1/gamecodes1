@@ -1,1 +1,2 @@
 testcode1="cash500,cashboost20m"
+testcode2="cash9000,waterboost50m"
