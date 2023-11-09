@@ -1,3 +1,5 @@
-["testcode1"]: {
-  "cash": 500
+{
+  "testcode1": [
+    "cash": 500
+  ]
 }
